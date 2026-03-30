@@ -4,7 +4,7 @@
  
 ### Frontend Developer | HTML & CSS Enthusiast | Building cool stuff 🚀
  
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=netlify&logoColor=58a6ff)](https://muhammadhussainmemon-portfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=netlify&logoColor=58a6ff)](https://muhammadhussainmemon.vercel.app/)
 [![Instagram](https://img.shields.io/badge/@m.hussain__memon__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m.hussain_memon_/)
 [![GitHub](https://img.shields.io/badge/hussain--afk-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hussain-afk)
 ![Profile Views](https://komarev.com/ghpvc/?username=hussain-afk&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)
