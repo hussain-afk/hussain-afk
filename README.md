@@ -5,7 +5,7 @@
 ### **Full-Stack Web Developer | React & MERN Specialist | UI/UX Enthusiast**
 
 [![Portfolio](https://img.shields.io/badge/MHM.dev-0D1117?style=for-the-badge&logo=vercel&logoColor=61DAFB)](https://muhammadhussainmemon.vercel.app/)
-[![Instagram](https://img.shields.io/badge/@m.hussain__memon__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m.hussain_memon_/)
+[![Instagram](https://img.shields.io/badge/@m.hussain__memon__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hussain_kadir_memon/)
 [![GitHub](https://img.shields.io/badge/hussain--afk-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hussain-afk)
 ![Profile Views](https://komarev.com/ghpvc/?username=hussain-afk&style=for-the-badge&color=61DAFB&label=PROFILE+VIEWS)
 
